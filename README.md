@@ -1,7 +1,4 @@
 # Streamlit-App-
-
-Here is a GitHub project description you can use for your **Simple Linear Regression with Streamlit** project:
-
 ---
 
 ### 📊 Simple Linear Regression Model with Streamlit Frontend
